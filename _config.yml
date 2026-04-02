@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "linkedin_dp.png"
+  avatar           : "linkedin_dp.jfif"
   name             : "Shrikrishna Lolla"
   pronouns         : # example: "she/her"  
   bio              : "Pre-Doctoral Fellow @ Indian Institute of Science (IISc)"
