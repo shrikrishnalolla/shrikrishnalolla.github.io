@@ -23,8 +23,10 @@ announcements:
 
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi!! I'm a graduate student at [Carnegie Mellon University](https://www.cmu.edu/), pursuing an M.S. in Machine Learning in the [Machine Learning Department](https://ml.cmu.edu/about/) in the [School of Computer Science](https://www.cs.cmu.edu/). I'm currently advised by Prof.[Virginia Smith](https://www.cs.cmu.edu/~smithv/). I finished my undergraduate degree in Electronics and Communications (with a Minor in Data Science) at the [Birla Institute of Technology and Science, Pilani - Hyderabad Campus](https://www.bits-pilani.ac.in/hyderabad/) in 2023.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Previously, I was a Pre-doc Fellow at the [Indian Institute of Science (IISc)](https://www.iisc.ac.in/), advised by Prof.[Soma Biswas](https://sites.google.com/iisc.ac.in/somabiswas). I worked on safety (debiasing, unlearning) for image generation (Diffusion and Rectified Flow Transformers). Before IISc, I was a Software Engineer at Microsoft IDC. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Currently, I'm interested in AI safety, specifically in mechanistic interpretability. Feel free to contact me at my email if you'd like to discuss more on it!!
+
+Aside from work, I love playing sports. I've played Ultimate Frisbee at a club level back in India. I also enjoy badminton, tennis, cricket (#VK18!!), and F1 (Forza Ferrari 🏎️🏎️). I also love exploring offbeat places and travelling.
