@@ -1,10 +1,10 @@
 # this file contains the social media links and usernames of the author
 # the socials will be displayed in the order they are defined here
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
-cv_pdf: https://drive.google.com/file/d/1CyeuCzEMsUWwRqlLq2LtaJ78lu2Hqa7K/view?usp=drive_link # path to your CV PDF file
-email: slolla[AT]cs[DOT]cmu[DOT]edu # your email address
-github_username: shrikrishnalolla
+cv_pdf: https://drive.google.com/file/d/1TbbipCJdQ9wsBE7JvG4p-YH-l5ptOC_K/view?usp=drive_link # path to your CV PDF file
+email: slolla@cs.cmu.edu # your email address
 linkedin_username: shrikrishnalolla
+github_username: shrikrishnalolla
 # inspirehep_id: 1010907 # Inspire HEP author ID
 orcid_id: 0009-0003-9990-7285
 # rss_icon:  # comment this line to hide the RSS icon
