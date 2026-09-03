@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Contact: slolla [AT] cs [DOT] cmu [DOT] edu
 
 profile:
   align: right
