@@ -2,7 +2,8 @@
 layout: about
 title: About
 permalink: /
-subtitle: "Contact: slolla [AT] cs [DOT] cmu [DOT] edu"
+subtitle: "Master's Student @ CMU MLD
+Contact: slolla [AT] cs [DOT] cmu [DOT] edu"
 
 profile:
   align: right
