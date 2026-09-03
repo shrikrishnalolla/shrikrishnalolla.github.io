@@ -29,4 +29,4 @@ Previously, I was a Pre-doc Fellow at the [Indian Institute of Science (IISc)](h
 
 Currently, I'm interested in AI safety, specifically in mechanistic interpretability. Feel free to contact me at my email if you'd like to discuss more on it!!
 
-Aside from work, I love playing sports. I've played Ultimate Frisbee at a club level back in India. I also enjoy badminton, tennis, cricket (#VK18!!), and F1 (Forza Ferrari 🏎️🏎️). I also love exploring offbeat places and travelling.
+Outside of work, I’m an avid sports enthusiast. I’ve played Ultimate Frisbee at the club level in India and also enjoy badminton, tennis, and cricket (#VK18!!). I’m a huge F1 fan too (Forza Ferrari!! 🏎️🏎️). Beyond sports, I love cooking, travelling, and exploring offbeat places.
