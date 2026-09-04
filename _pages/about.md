@@ -6,7 +6,7 @@ subtitle: "Contact: slolla [AT] cs [DOT] cmu [DOT] edu"
 
 profile:
   align: right
-  image: githubio_dp.jpeg
+  image: dp.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     Email: slolla[AT]cs[DOT]cmu[DOT]edu
